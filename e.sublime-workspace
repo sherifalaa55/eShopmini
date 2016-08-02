@@ -1,0 +1,1677 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tmp",
+				"tmpl"
+			],
+			[
+				"ass",
+				"assets	(assets.php)"
+			],
+			[
+				"ret",
+				"return	(Model.php)"
+			],
+			[
+				"fi",
+				"fields"
+			],
+			[
+				"fiel",
+				"fields"
+			],
+			[
+				"for",
+				"foreach	(Router.php)"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"fun",
+				"function	(Model.php)"
+			],
+			[
+				"__",
+				"__construct	(Authenticator.php)"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"conn",
+				"connectToDb	(Connection.php)"
+			],
+			[
+				"db_",
+				"db_user"
+			],
+			[
+				"db",
+				"db_host"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"de",
+				"debugger"
+			],
+			[
+				"htt",
+				"httpProvider"
+			],
+			[
+				"inject",
+				"injectGuard"
+			],
+			[
+				"req",
+				"request	(CustomersController.php)"
+			],
+			[
+				"custom",
+				"customers	(routes.php)"
+			],
+			[
+				"fb",
+				"fbLogin"
+			],
+			[
+				"cu",
+				"customer"
+			],
+			[
+				"Cus",
+				"Customer	(routes.php)"
+			],
+			[
+				"cust",
+				"customer	(routes.php)"
+			],
+			[
+				"bo",
+				"bodyParams"
+			],
+			[
+				"auth",
+				"authenticate	(profile.js)"
+			],
+			[
+				"reg",
+				"registerCustomerFb"
+			],
+			[
+				"login",
+				"loginFactory"
+			],
+			[
+				"sea",
+				"search_key	(app.controller.js)"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"cus",
+				"customer"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"cre",
+				"credentials"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"Au",
+				"Authenticatable	(User.php)"
+			],
+			[
+				"ca",
+				"category	(app.states.js)"
+			],
+			[
+				"sa",
+				"satellizer"
+			],
+			[
+				"User",
+				"UsersController@login"
+			],
+			[
+				"Cu",
+				"Customers	(CustomersController.php)"
+			],
+			[
+				"Us",
+				"Users	(routes.php)"
+			],
+			[
+				"api",
+				"api_token"
+			],
+			[
+				"succ",
+				"success	(login.html)"
+			],
+			[
+				"pre",
+				"prefix"
+			],
+			[
+				"Pro",
+				"Product	(page_blank.html)"
+			],
+			[
+				"para",
+				"parameters"
+			],
+			[
+				"Quer",
+				"QueryBuilder	(Model.php)"
+			],
+			[
+				"deleteSale",
+				"deleteSaleOrder	(salesOrdersController.js)"
+			],
+			[
+				"curr",
+				"currentSaleOrder"
+			],
+			[
+				"or",
+				"order"
+			],
+			[
+				"getSale",
+				"getSaleOrder	(salesOrdersController.js)"
+			],
+			[
+				"new",
+				"newLang"
+			],
+			[
+				"invoi",
+				"invoice_number"
+			],
+			[
+				"Sto",
+				"StockRepository	(AddOrderCommandHandler.php)"
+			],
+			[
+				"Ord",
+				"OrderRepository	(SalesOrdersController.php)"
+			],
+			[
+				"sto",
+				"stockRepository"
+			],
+			[
+				"order",
+				"orderRepository"
+			],
+			[
+				"inven",
+				"inventory_id	(salesOrdersController.js)"
+			],
+			[
+				"user",
+				"user_id	(SalesOrdersController.php)"
+			],
+			[
+				"Or",
+				"Order	(SalesOrdersController.php)"
+			],
+			[
+				"addSa",
+				"addSaleOrder	(salesOrdersController.js)"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"inve",
+				"inventory_id"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"sale",
+				"saleOrder"
+			],
+			[
+				"edi",
+				"editPurchase	(purchasesOrdersController.js)"
+			],
+			[
+				"getP",
+				"getPurchase"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"purc",
+				"purchase"
+			],
+			[
+				"pur",
+				"purchase"
+			],
+			[
+				"this",
+				"this_date"
+			],
+			[
+				"cat",
+				"Category"
+			],
+			[
+				"supp",
+				"supplier"
+			],
+			[
+				"su",
+				"supplier"
+			],
+			[
+				"find",
+				"findById	(PurchasesController.php)"
+			],
+			[
+				"create",
+				"createNewRepresentative	(AddNewSupplierCommandHandler.php)"
+			],
+			[
+				"rep",
+				"representative"
+			],
+			[
+				"temp",
+				"tempCustomer"
+			],
+			[
+				"repo",
+				"repository"
+			],
+			[
+				"repre",
+				"representatives"
+			],
+			[
+				"add_",
+				"add_customer	(addCustomer.html)"
+			],
+			[
+				"iam",
+				"image_url	(people.html)"
+			],
+			[
+				"tem",
+				"tempRepresentative"
+			],
+			[
+				"add",
+				"addNewCustomer	(peopleController.js)"
+			],
+			[
+				"des",
+				"description	(product_edit.html)"
+			],
+			[
+				"peop",
+				"peopleFactory"
+			],
+			[
+				"image",
+				"image_url	(people.html)"
+			],
+			[
+				"repr",
+				"representative	(SupplierRepository.php)"
+			],
+			[
+				"s",
+				"suppliers"
+			],
+			[
+				"repres",
+				"representatives	(SuppliersController.php)"
+			],
+			[
+				"cons",
+				"console.log()"
+			],
+			[
+				"pe",
+				"peopleFactory"
+			],
+			[
+				"pro",
+				"products	(Value.php)"
+			],
+			[
+				"att",
+				"attribute_id"
+			],
+			[
+				"del",
+				"deleted_values"
+			],
+			[
+				"ex",
+				"existingAttribute"
+			],
+			[
+				"attr",
+				"attribute_id	(Value.php)"
+			],
+			[
+				"arra",
+				"array_diff"
+			],
+			[
+				"arr",
+				"array_column"
+			],
+			[
+				"imag",
+				"image_url"
+			],
+			[
+				"ima",
+				"image_url"
+			],
+			[
+				"Ed",
+				"EditCustomerCommand	(EditCustomerCommand.php)"
+			],
+			[
+				"clas",
+				"class"
+			],
+			[
+				"Add",
+				"AddNewCustomerCommandHandler	(AddNewCustomerCommandHandler.php)"
+			],
+			[
+				"Cust",
+				"Customer	(Customer.php)"
+			],
+			[
+				"crea",
+				"createNewCustomer	(Customer.php)"
+			],
+			[
+				"com",
+				"compact	(Product.php)"
+			],
+			[
+				"suip",
+				"supplier"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"Supp",
+				"Supplier	(SuppliersController.php)"
+			],
+			[
+				"Re",
+				"Represantative	(AddNewSupplierCommandHandler.php)"
+			],
+			[
+				"che",
+				"checkIfStocksChanged	(EditPurchaseCommandHandler.php)"
+			],
+			[
+				"inv",
+				"inventory_id"
+			],
+			[
+				"pu",
+				"purchase"
+			],
+			[
+				"up",
+				"updatePurchase	(EditPurchaseCommandHandler.php)"
+			],
+			[
+				"upda",
+				"updatePurchase"
+			],
+			[
+				"Purre",
+				"purchaseRepository"
+			],
+			[
+				"Pur",
+				"PurchaseRepository	(AddNewPurchaseCommandHandler.php)"
+			],
+			[
+				"va",
+				"validateUniqnuess"
+			],
+			[
+				"vali",
+				"validator"
+			],
+			[
+				"produc",
+				"products"
+			],
+			[
+				"fail",
+				"fails"
+			],
+			[
+				"In",
+				"Input"
+			],
+			[
+				"tra",
+				"transformCollection"
+			],
+			[
+				"Pr",
+				"Products	(CategoriesController.php)"
+			],
+			[
+				"where",
+				"whereIn"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/sherif muhammad/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+			"settings":
+			{
+				"buffer_size": 389,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "core/Router.php",
+			"settings":
+			{
+				"buffer_size": 811,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "core/TemplateLoader.php",
+			"settings":
+			{
+				"buffer_size": 590,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"syntaxh",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"vm",
+				"View: Toggle Menu"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/e",
+		"/C/xampp/htdocs/e/config",
+		"/C/xampp/htdocs/e/core",
+		"/C/xampp/htdocs/e/core/templates"
+	],
+	"file_history":
+	[
+		"/C/Users/sherif muhammad/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/e/.htaccess",
+		"/C/xampp/htdocs/e/core/routes.php",
+		"/C/xampp/htdocs/e/core/models/Products.php",
+		"/C/xampp/htdocs/e/core/models/Categories.php",
+		"/C/xampp/htdocs/e/core/Model.php",
+		"/C/xampp/htdocs/e/core/src/Home.php",
+		"/C/xampp/htdocs/e/core/database/Connection.php",
+		"/C/xampp/htdocs/e/core/database/schema.php",
+		"/C/xampp/htdocs/e/core/Authenticator.php",
+		"/C/xampp/htdocs/e/config/database.php",
+		"/C/xampp/htdocs/e/core/Router.php",
+		"/C/xampp/htdocs/e/cli.php",
+		"/C/xampp/htdocs/e/config/bootstrap.php",
+		"/C/xampp/htdocs/e/config/autoload.php",
+		"/C/Users/sherif muhammad/Downloads/Compressed/JREAM-route-8c485d7cd733/route.php",
+		"/C/Users/sherif muhammad/Downloads/Compressed/JREAM-route-8c485d7cd733/.htaccess",
+		"/C/Users/sherif muhammad/Downloads/Compressed/JREAM-route-8c485d7cd733/index.php",
+		"/C/xampp/htdocs/e/core/database/DBManager.php",
+		"/C/xampp/htdocs/e/core/models/Users.php",
+		"/C/wamp/www/eshop/public/app/views/login/loginController.js",
+		"/C/wamp/www/eshop/Acme/Product/Commands/AddNewProductCommandHandler.php",
+		"/C/wamp/www/eshop/Acme/Product/ProductRepository.php",
+		"/C/wamp/www/eshop/Acme/Product/Product.php",
+		"/C/wamp/www/eshop/vendor/app/controllers/APIController.php",
+		"/C/wamp/www/eshop/Acme/Users/User.php",
+		"/C/wamp/www/eshop/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php",
+		"/C/wamp/www/eshop/vendor/franzose/closure-table/src/Franzose/ClosureTable/Contracts/EntityInterface.php",
+		"/C/wamp/www/eshop/public/app/app.states.js",
+		"/C/wamp/www/eshop/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/wamp/www/eshop/database/migrations/2016_03_24_135249_create_customers_table.php",
+		"/C/wamp/www/eshop/public/app/views/inventory/inventory.js",
+		"/C/wamp/www/eshop/vendor/laravel/framework/src/Illuminate/Routing/Controller.php",
+		"/C/wamp/www/eshop/public/front/eshtri/app/views/profile/profile.js",
+		"/C/wamp/www/eshop/app/Http/Controllers/CustomersController.php",
+		"/C/wamp/www/eshop/app/Http/Controllers/UsersController.php",
+		"/C/wamp/www/eshop/public/app/app.js",
+		"/C/wamp/www/eshop/app/Http/routes.php",
+		"/C/Users/sherif muhammad/AppData/Roaming/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/C/Users/sherif muhammad/AppData/Roaming/Sublime Text 3/Packages/User/PHP Companion.sublime-settings",
+		"/C/wamp/www/eshop/public/assets/js/common.js",
+		"/C/wamp/www/eshop/app/models/Customer.php",
+		"/C/wamp/www/eshop/resources/views/front/core.blade.php",
+		"/C/wamp/www/eshop/public/front/eshtri/app/app.js",
+		"/C/wamp/www/eshop/Acme/Customers/Customer.php",
+		"/C/wamp/www/eshop/public/front/eshtri/app/views/profile/login.html",
+		"/C/wamp/www/eshop/database/migrations/2016_05_08_231617_fb_id_column_users.php",
+		"/C/wamp/www/eshop/config/oauth-5-laravel.php",
+		"/C/wamp/www/eshop/composer.json",
+		"/C/wamp/www/eshop/vendor/lusitanian/oauth/src/OAuth/OAuth2/Service/AbstractService.php",
+		"/C/wamp/www/eshop/vendor/lusitanian/oauth/examples/facebook.php",
+		"/C/wamp/www/eshop/vendor/lusitanian/oauth/src/OAuth/Common/Http/Client/StreamClient.php",
+		"/C/wamp/www/eshop/config/app.php",
+		"/C/wamp/www/eshop/vendor/artdarek/oauth-4-laravel/src/Artdarek/OAuth/OAuth.php",
+		"/C/wamp/www/eshop/public/front/eshtri/app/app.controller.js",
+		"/C/wamp/www/eshop/app/Http/Controllers/HomeController.php",
+		"/C/wamp/www/eshop/public/front/eshtri/app/shared/shared.js",
+		"/C/wamp/www/eshop/public/app/app.controller.js",
+		"/C/wamp/www/eshop/public/app/shared/SharedFactory.js",
+		"/C/Users/sherif muhammad/AppData/Local/Temp/tmpBA85.tmp.js",
+		"/C/wamp/www/eshop/Acme/Product/Commands/AddNewProductCommand.php",
+		"/C/wamp/www/eshop/app/Http/Controllers/ApiController.php",
+		"/C/wamp/www/eshop/app/Http/Controllers/ProductsController.php",
+		"/C/wamp/www/eshop/public/app/views/login/usersFactory.js",
+		"/C/wamp/www/eshop/public/app/views/salesOrders/salesFactory.js",
+		"/C/wamp/www/eshop/app/Http/Middleware/EncryptCookies.php",
+		"/C/wamp/www/eshop/app/Http/Middleware/Authenticate.php",
+		"/C/wamp/www/eshop/app/Http/Middleware/TokenMiddleware.php",
+		"/C/wamp/www/eshop/public/app/views/inventory/productsFactory.js",
+		"/C/wamp/www/es/Acme/Packages/Image.php",
+		"/C/wamp/www/eshop/public/bower_components/angular-facebook/lib/angular-facebook.js",
+		"/C/wamp/www/eshop/config/auth.php",
+		"/C/wamp/www/eshop/resources/views/app/core.blade.php",
+		"/C/Users/sherif muhammad/Downloads/dietsdb.sql",
+		"/C/Users/sherif muhammad/Downloads/t.sql",
+		"/C/wamp/www/eshop/public/app/app.service.js",
+		"/C/wamp/www/eshop/public/app/views/inventory/CategoriesProductsController.js",
+		"/C/wamp/www/eshop/Acme/Customers/Commands/AddNewCustomerCommandHandler.php",
+		"/C/wamp/www/eshop/public/.htaccess",
+		"/C/wamp/www/eshop/vendor/composer/autoload_classmap.php",
+		"/C/wamp/www/eshop/public/front/eshtri/app/views/home/homeController.js",
+		"/C/Users/sherif muhammad/Desktop/CAVAL_examples/CAVAL_examples/hotel_booking_pull/2_hotel_getAvailableHotels_RS.xml",
+		"/C/Users/sherif muhammad/Desktop/CAVAL_examples/CAVAL_examples/hotel_booking_pull/2_hotel_getAvailableHotels_RQ.xml",
+		"/C/Users/sherif muhammad/Desktop/CAVAL_examples/CAVAL_examples/hotel_booking_pull/0_commons_getWholeSupportedMap_RQ.xml",
+		"/C/wamp/www/eshop/app/Http/Controllers/Auth/AuthController.php",
+		"/C/wamp/www/eshop/app/Providers/AuthServiceProvider.php",
+		"/C/wamp/www/eshop/vendor/laravel/framework/src/Illuminate/Auth/AuthServiceProvider.php",
+		"/C/wamp/www/eshop/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php",
+		"/C/wamp/www/eshop/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php",
+		"/C/wamp/www/eshop/Acme/Users/Commands/AddNewUserCommand.php",
+		"/C/wamp/www/eshop/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php",
+		"/C/wamp/www/eshop/vendor/laravel/framework/src/Illuminate/Auth/SessionGuard.php",
+		"/C/wamp/www/eshop/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Authenticatable.php",
+		"/C/wamp/www/eshop/public/app/views/login/loginView.html",
+		"/C/wamp/www/eshop/app/Http/Controllers/AuthenticateController.php",
+		"/C/wamp/www/eshop/app/Http/Kernel.php",
+		"/C/wamp/www/eshop/Acme/Customers/Commands/AddNewCustomerCommand.php",
+		"/C/wamp/www/eshop/Acme/Users/Commands/AddNewUserCommandHandler.php",
+		"/C/wamp/www/eshop/public/app/views/purchasesOrders/purchasesOrdersController.js",
+		"/C/wamp/www/eshop/public/app/views/purchasesOrders/purchasesFactory.js",
+		"/C/wamp/www/eshop/vendor/laravel/framework/src/Illuminate/Auth/Middleware/AuthenticateWithBasicAuth.php",
+		"/C/wamp/www/eshop/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Guard.php",
+		"/C/wamp/www/eshop/database/migrations/2016_02_27_164452_create_parent_products_table.php",
+		"/C/wamp/www/eshop/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/C/wamp/www/eshop/public/bower_components/ckeditor/config.js",
+		"/E/themeforest-12190654-altair-material-design-premium-template/altair_v2.1.0/admin/html/dist/page_contact_list.html",
+		"/E/themeforest-12190654-altair-material-design-premium-template/altair_v2.1.0/admin/html/dist/page_blank.html",
+		"/C/wamp/www/eshop/resources/views/test.blade.php",
+		"/C/wamp/www/eshop/Acme/Users/UserRepository.php",
+		"/C/wamp/www/eshop/Acme/Orders/Order.php",
+		"/C/wamp/www/eshop/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/C/wamp/www/eshop/vendor/franzose/closure-table/src/Franzose/ClosureTable/Extensions/QueryBuilder.php",
+		"/C/wamp/www/eshop/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php",
+		"/C/wamp/www/php-getting-started/web/views/header.html",
+		"/C/wamp/www/php-getting-started/web/views/layout.html",
+		"/C/wamp/www/Chat-API/tests/whatsapp.php",
+		"/C/wamp/www/Chat-API/examples/WA CLI Client/client.php",
+		"/C/wamp/www/eshop/public/index.php",
+		"/C/wamp/www/eshop/bootstrap/app.php",
+		"/C/wamp/www/eshop/vendor/laravel/framework/src/Illuminate/Console/Application.php",
+		"/C/wamp/www/eshop/vendor/symfony/console/Command/Command.php",
+		"/C/wamp/www/eshop/vendor/laravel/framework/src/Illuminate/Contracts/Support/Arrayable.php",
+		"/C/wamp/www/eshop/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+		"/C/wamp/www/eshop/vendor/laravel/framework/src/Illuminate/Contracts/Queue/QueueableEntity.php",
+		"/C/Users/sherif muhammad/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/sherif muhammad/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/sherif muhammad/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/wamp/www/eshop/public/app/views/salesOrders/salesOrdersController.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\eshop\\vendor\\oriceon",
+			"C:\\wamp\\www\\eshop\\public\\app",
+			"C:\\wamp\\www\\eshop\\public",
+			"C:\\wamp\\www\\eshop",
+			"C:\\wamp\\www\\eshop\\public\\app",
+			"C:\\wamp\\www\\touchtime\\app\\views",
+			"C:\\wamp\\www\\estate\\app\\views",
+			"C:\\wamp\\www\\estate",
+			"C:\\wamp\\www\\semsar\\app\\views",
+			"C:\\wamp\\www\\estate\\app",
+			"C:\\wamp\\www\\estate\\app\\views",
+			"E:\\themeforest-12190654-altair-material-design-premium-template\\altair_v2.1.0\\admin\\html\\dist",
+			"C:\\wamp\\www\\estate\\public\\assets\\js",
+			"C:\\wamp\\www\\sawarly\\wp-content\\themes\\freelanceengine",
+			"C:\\wamp\\www\\sawarly\\wp-content\\plugins",
+			"C:\\wamp\\www\\sawarly\\wp-content\\themes\\freelanceengine",
+			"C:\\wamp\\www\\sawarly",
+			"C:\\wamp\\www\\sawarly\\wp-content\\themes\\freelanceengine",
+			"C:\\wamp\\www\\sawarly\\wp-content\\themes\\freelanceengine-child",
+			"C:\\wamp\\www\\sawarly\\wp-content\\themes\\freelanceengine",
+			"C:\\wamp\\www\\sawarly",
+			"C:\\wamp\\www\\sawarly\\wp-content\\themes\\freelanceengine",
+			"C:\\wamp\\www\\estate",
+			"C:\\wamp\\www\\sawarly\\wp-content\\themes\\freelanceengine",
+			"C:\\wamp\\www\\sawarly",
+			"C:\\wamp\\www\\sawarly\\wp-content\\themes\\freelanceengine",
+			"C:\\wamp\\www\\sw\\wp-content\\themes\\freelanceengine"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"APP",
+			".go",
+			"category/",
+			"redirectWhenLoggedOut",
+			"');\n",
+			"consumerId",
+			"angular",
+			"bower_components",
+			"search",
+			"SharedFactory",
+			"search:",
+			"me()",
+			"last_name",
+			"regis",
+			"Acme",
+			"HEAD",
+			"users",
+			"->",
+			"Sarina",
+			"nickname",
+			"altairApp",
+			"currentPurchase",
+			"currentsaleOrder",
+			"HEAD",
+			"date",
+			"create a new invoice",
+			"ui-sref",
+			"supplier",
+			"customer",
+			"purchase",
+			"Purchase",
+			"add",
+			"resetP",
+			"hea",
+			"head",
+			"pre",
+			"representatives",
+			"delete",
+			"from",
+			"ctrl+w",
+			"HEAD",
+			"tempCustomer",
+			"all",
+			"attr",
+			"productlocal",
+			"pushLanguagesIds",
+			"original_quantitiy",
+			"original_quantity",
+			"original_quantitiy",
+			"quant",
+			"HEAD",
+			"category",
+			".category",
+			"category.",
+			"parents_array",
+			"number",
+			"attributeop",
+			"selectize",
+			"onapiload",
+			"update_p",
+			"update",
+			"stateParams",
+			"newca",
+			".category",
+			"addca",
+			"newCategory",
+			"HEAD",
+			"deleteP",
+			"<<<<",
+			"attributes",
+			"editCategory",
+			"updateCategory",
+			"addCategoryFail",
+			"delete_product",
+			"update_product",
+			"main_image",
+			"newProd",
+			"addProduct",
+			"<a",
+			"products",
+			"if",
+			"init",
+			"bind",
+			"create",
+			"change",
+			"getpro",
+			"add_btn",
+			"fab-suc",
+			"primary",
+			"card_show_hide",
+			"addprop",
+			"add_prop",
+			"property",
+			"addProperty",
+			"card_show_hide",
+			"addProp",
+			"card_show_hide",
+			"archived",
+			"go_b",
+			"get_view",
+			"archived",
+			"thir",
+			"go_back",
+			"first_icon",
+			"go_back",
+			"back",
+			"change",
+			"customer(",
+			"posta",
+			"purpose",
+			"purpose_add",
+			"purpose",
+			"add_new",
+			"name",
+			"URL::route",
+			"add_new",
+			"edit_",
+			"price",
+			"add_us",
+			"add_",
+			"push",
+			"notifica",
+			"price",
+			"me",
+			"reload",
+			"add",
+			"details",
+			"property"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"currentSaleOrder",
+			"order",
+			"Order",
+			"tempRepresentative",
+			"original_quantity",
+			"notification_table"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/sherif muhammad/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								269,
+								269
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "core/Router.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								353,
+								353
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 513.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "core/TemplateLoader.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 590,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								356,
+								356
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"default_dir": "C:\\xampp\\htdocs\\e\\core\\templates",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "e.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rou",
+				"core\\Router.php"
+			],
+			[
+				"conn",
+				"core\\database\\Connection.php"
+			],
+			[
+				"rout",
+				"app\\Http\\routes.php"
+			],
+			[
+				"produ",
+				"app\\Http\\Controllers\\ProductsController.php"
+			],
+			[
+				"prod",
+				"app\\Http\\Controllers\\ProductsController.php"
+			],
+			[
+				"api",
+				"app\\Http\\Controllers\\ApiController.php"
+			],
+			[
+				"create_",
+				"database\\migrations\\2016_02_16_132903_create_categories_table.php"
+			],
+			[
+				"producon",
+				"app\\Http\\Controllers\\ProductsController.php"
+			],
+			[
+				"categocont",
+				"app\\Http\\Controllers\\CategoriesController.php"
+			],
+			[
+				"stat",
+				"public\\app\\app.states.js"
+			],
+			[
+				"appstat",
+				"public\\app\\app.states.js"
+			],
+			[
+				"token",
+				"app\\Http\\Middleware\\TokenMiddleware.php"
+			],
+			[
+				"loginc",
+				"public\\app\\views\\login\\loginController.js"
+			],
+			[
+				"states",
+				"public\\app\\app.states.js"
+			],
+			[
+				"appjs",
+				"public\\app\\app.js"
+			],
+			[
+				"cus",
+				"app\\Http\\Controllers\\CustomersController.php"
+			],
+			[
+				"eshtriprofil",
+				"public\\front\\eshtri\\app\\views\\profile\\profile.js"
+			],
+			[
+				"userscon",
+				"app\\Http\\Controllers\\UsersController.php"
+			],
+			[
+				"logincon",
+				"public\\app\\views\\login\\loginController.js"
+			],
+			[
+				"routes",
+				"app\\Http\\routes.php"
+			],
+			[
+				"login",
+				"public\\app\\views\\login\\loginController.js"
+			],
+			[
+				"customcon",
+				"app\\Http\\Controllers\\CustomersController.php"
+			],
+			[
+				"profilejs",
+				"public\\front\\eshtri\\app\\views\\profile\\profile.js"
+			],
+			[
+				"cust",
+				"app\\Http\\Controllers\\CustomersController.php"
+			],
+			[
+				"fb_i",
+				"database\\migrations\\2016_05_08_231617_fb_id_column_users.php"
+			],
+			[
+				"fb_id",
+				"database\\migrations\\2016_05_08_231617_fb_id_column_users.php"
+			],
+			[
+				"com",
+				"composer.json"
+			],
+			[
+				"streamcli",
+				"vendor\\lusitanian\\oauth\\src\\OAuth\\Common\\Http\\Client\\StreamClient.php"
+			],
+			[
+				"app",
+				"config\\app.php"
+			],
+			[
+				"loginhtml",
+				"public\\front\\eshtri\\app\\views\\profile\\login.html"
+			],
+			[
+				"prof",
+				"public\\front\\eshtri\\app\\views\\profile\\profile.js"
+			],
+			[
+				"frontcore",
+				"resources\\views\\front\\core.blade.php"
+			],
+			[
+				"shared",
+				"public\\front\\eshtri\\app\\shared\\shared.js"
+			],
+			[
+				"appcon",
+				"public\\app\\app.controller.js"
+			],
+			[
+				"homecon",
+				"app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"app.con",
+				"public\\front\\eshtri\\app\\app.controller.js"
+			],
+			[
+				"profile",
+				"public\\front\\eshtri\\app\\views\\profile\\profile.js"
+			],
+			[
+				"userphp",
+				"Acme\\Users\\User.php"
+			],
+			[
+				"factoryjs",
+				"public\\app\\views\\salesOrders\\salesFactory.js"
+			],
+			[
+				"purchfac",
+				"public\\app\\views\\purchasesOrders\\purchasesFactory.js"
+			],
+			[
+				"produfacto",
+				"public\\app\\views\\inventory\\productsFactory.js"
+			],
+			[
+				"user",
+				"app\\Http\\Controllers\\UsersController.php"
+			],
+			[
+				"shared.js",
+				"public\\front\\eshtri\\app\\shared\\shared.js"
+			],
+			[
+				"compojso",
+				"composer.json"
+			],
+			[
+				"states.js",
+				"public\\app\\app.states.js"
+			],
+			[
+				"custhand",
+				"Acme\\Customers\\Commands\\AddNewCustomerCommandHandler.php"
+			],
+			[
+				"custphp",
+				"Acme\\Customers\\Customer.php"
+			],
+			[
+				"customphp",
+				"Acme\\Customers\\Customer.php"
+			],
+			[
+				"usecon",
+				"app\\Http\\Controllers\\UsersController.php"
+			],
+			[
+				"httprou",
+				"app\\Http\\routes.php"
+			],
+			[
+				"authseer",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\AuthServiceProvider.php"
+			],
+			[
+				"authser",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Auth\\AuthServiceProvider.php"
+			],
+			[
+				"authman",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Auth\\AuthManager.php"
+			],
+			[
+				"usercont",
+				"app\\Http\\Controllers\\UsersController.php"
+			],
+			[
+				"app.js",
+				"public\\app\\app.js"
+			],
+			[
+				"core",
+				"resources\\views\\app\\core.blade.php"
+			],
+			[
+				"auth.php",
+				"config\\auth.php"
+			],
+			[
+				"addcushand",
+				"Acme\\Customers\\Commands\\AddNewCustomerCommandHandler.php"
+			],
+			[
+				"cuscont",
+				"app\\Http\\Controllers\\CustomersController.php"
+			],
+			[
+				"addnewuserhan",
+				"Acme\\Users\\Commands\\AddNewUserCommandHandler.php"
+			],
+			[
+				"authma",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Auth\\AuthManager.php"
+			],
+			[
+				"guard",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Contracts\\Auth\\StatefulGuard.php"
+			],
+			[
+				"route",
+				"app\\Http\\routes.php"
+			],
+			[
+				"createuser",
+				"database\\migrations\\2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"confi",
+				"public\\bower_components\\ckeditor\\config.js"
+			],
+			[
+				"comp",
+				"composer.json"
+			],
+			[
+				"createparen",
+				"database\\migrations\\2016_02_27_164452_create_parent_products_table.php"
+			],
+			[
+				"routesphp",
+				"app\\Http\\routes.php"
+			],
+			[
+				"comman",
+				"vendor\\symfony\\console\\Command\\Command.php"
+			],
+			[
+				"basequerybuil",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php"
+			],
+			[
+				"orderphp",
+				"Acme\\Orders\\Order.php"
+			],
+			[
+				"repo",
+				"Acme\\Users\\UserRepository.php"
+			],
+			[
+				"purchcont",
+				"app\\Http\\Controllers\\PurchasesController.php"
+			],
+			[
+				"salesord",
+				"app\\Http\\Controllers\\SalesOrdersController.php"
+			],
+			[
+				"salecontrol",
+				"app\\Http\\Controllers\\SalesOrdersController.php"
+			],
+			[
+				"produrepo",
+				"Acme\\Product\\ProductRepository.php"
+			],
+			[
+				"salesorderadd",
+				"public\\app\\views\\salesOrders\\salesOrderAdd.html"
+			],
+			[
+				"saleordradd",
+				"public\\app\\views\\salesOrders\\salesOrderAdd.html"
+			],
+			[
+				"saleordefac",
+				"public\\app\\views\\salesOrders\\salesFactory.js"
+			],
+			[
+				"saleordecon",
+				"app\\Http\\Controllers\\SalesOrdersController.php"
+			],
+			[
+				"ordercont",
+				"app\\Http\\Controllers\\OrdersController.php"
+			],
+			[
+				"purchordcont",
+				"public\\app\\views\\purchasesOrders\\purchasesOrdersController.js"
+			],
+			[
+				"purchasordadd",
+				"public\\app\\views\\purchasesOrders\\purchaseOrderAdd.html"
+			],
+			[
+				"data",
+				"config\\database.php"
+			],
+			[
+				"",
+				"Acme\\Transformers\\OrderTransformer.php"
+			],
+			[
+				"customer",
+				"Acme\\Customers\\Customer.php"
+			],
+			[
+				"purcharepo",
+				"Acme\\Purchases\\PurchaseRepository.php"
+			],
+			[
+				"ordercontro",
+				"app\\Http\\Controllers\\OrdersController.php"
+			],
+			[
+				"createordere",
+				"database\\migrations\\2016_03_24_135410_create_order_items_table.php"
+			],
+			[
+				"orderstable",
+				"database\\migrations\\2016_03_24_135343_create_orders_table.php"
+			],
+			[
+				"purchasesc",
+				"app\\Http\\Controllers\\PurchasesController.php"
+			],
+			[
+				"peoplec",
+				"public\\app\\views\\people\\peopleController.js"
+			],
+			[
+				"purchasecon.php",
+				"app\\Http\\Controllers\\PurchasesController.php"
+			],
+			[
+				"purchaseord",
+				"public\\app\\views\\purchasesOrders\\purchaseOrderAdd.html"
+			],
+			[
+				"purchasecontjs",
+				"public\\app\\views\\purchasesOrders\\purchasesOrdersController.js"
+			],
+			[
+				"pur",
+				"Acme\\Purchases\\Purchase.php"
+			],
+			[
+				"purchadd",
+				"public\\app\\views\\purchasesOrders\\purchaseOrderAdd.html"
+			],
+			[
+				"purchcontjs",
+				"public\\app\\views\\purchasesOrders\\purchasesOrdersController.js"
+			],
+			[
+				"stocksta",
+				"database\\migrations\\2016_02_27_164732_create_stocks_table.php"
+			],
+			[
+				"purchastab",
+				"database\\migrations\\2016_02_27_164723_create_purchases_table.php"
+			],
+			[
+				"purchcomm",
+				"Acme\\Purchases\\Commands\\AddNewPurchaseCommandHandler.php"
+			],
+			[
+				"purchcom",
+				"Acme\\Purchases\\Commands\\AddNewPurchaseCommand.php"
+			],
+			[
+				"createpur",
+				"database\\migrations\\2016_02_27_164723_create_purchases_table.php"
+			],
+			[
+				"createpurch",
+				"database\\migrations\\2016_02_27_164723_create_purchases_table.php"
+			],
+			[
+				"supplihand",
+				"Acme\\Suppliers\\Commands\\AddNewSupplierCommandHandler.php"
+			],
+			[
+				"supplrepo",
+				"Acme\\Suppliers\\SupplierRepository.php"
+			],
+			[
+				"purchcon",
+				"app\\Http\\Controllers\\PurchasesController.php"
+			],
+			[
+				"attrcon",
+				"app\\Http\\Controllers\\AttributesController.php"
+			],
+			[
+				"cusrepo",
+				"Acme\\Customers\\CustomerRepository.php"
+			],
+			[
+				"suppcon",
+				"app\\Http\\Controllers\\SuppliersController.php"
+			],
+			[
+				"catp",
+				"public\\app\\views\\inventory\\CategoriesProductsController.js"
+			],
+			[
+				"supp",
+				"Acme\\Suppliers\\Supplier.php"
+			],
+			[
+				"peopfac",
+				"public\\app\\views\\people\\peopleFactory.js"
+			],
+			[
+				"supplcomm",
+				"Acme\\Suppliers\\Commands\\AddNewSupplierCommand.php"
+			],
+			[
+				"suppcomm",
+				"Acme\\Suppliers\\Commands\\AddNewSupplierCommandHandler.php"
+			],
+			[
+				"supphan",
+				"Acme\\Suppliers\\Commands\\AddNewSupplierCommandHandler.php"
+			],
+			[
+				"cuscon",
+				"app\\Http\\Controllers\\CustomersController.php"
+			],
+			[
+				"valida",
+				"public\\app\\shared\\validationController.js"
+			],
+			[
+				"addcustsupp",
+				"public\\app\\views\\people\\addCustomerOrSupplier.html"
+			],
+			[
+				"custhan",
+				"Acme\\Customers\\Commands\\AddNewCustomerCommandHandler.php"
+			],
+			[
+				"custcon",
+				"app\\Http\\Controllers\\CustomersController.php"
+			],
+			[
+				"peopl",
+				"public\\app\\views\\people\\people.html"
+			],
+			[
+				"prodhtml",
+				"public\\app\\views\\inventory\\product.html"
+			],
+			[
+				"produedi",
+				"public\\app\\views\\inventory\\product_edit.html"
+			],
+			[
+				"attrhtml",
+				"public\\app\\views\\inventory\\category_attributes.html"
+			],
+			[
+				"catprocon",
+				"public\\app\\views\\inventory\\CategoriesProductsController.js"
+			],
+			[
+				"attrihan",
+				"Acme\\Attributes\\Command\\AddAttributeCommandHandler.php"
+			],
+			[
+				"value",
+				"Acme\\Values\\Commands\\AddNewValueCommandHandler.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"tr",
+				"C:\\wamp\\www\\tr\\tr.sublime-project"
+			],
+			[
+				"",
+				"C:\\xampp\\htdocs\\e\\e.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 358.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
