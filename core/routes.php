@@ -1,35 +1,31 @@
 <?php
 
 use core\Router;
-use core\models\Categories;
-use core\models\Products;
-use core\Authenticator;
+
 $router = new Router();
 
+// -------------------- bootstrap angular application ---------------------//
 $router->add('/' , 'Home');
-$router->add('/' , 'Home' , 'add');
-$router->add('/users/add' , 'Users' , 'add');
-$router->add('/products' , 'Products');
+
+// -------------------- login Request ---------------------//
 $router->add('/login' , 'Login');
-$router->add('/test' , function(){
-	$cat = new Products();
 
-	$auth = new Authenticator();
-	// if($auth->authenticate("Sherif" , '123')){
-	// 	echo "Logged In";
-	// }else{
-	// 	echo "Wrong username or password";
-	// }
-	
-	// $cat->update($_GET['cat_id'] ,[
-	// 	'name' => 'xxx',
-	// 	'parent_id' => 1
-	// 	]);
-	// var_dump($cat->update(2,[
-	// 	'name' => 'kamel',
-	// 	'created_at' => date('Y-m-d')
-	// 	]));
-	var_dump(session_id());
-});
+// -------------------- Categories API ---------------------//
+$router->add('/categories' , 'Categories');
+$router->add('/categories/show' , 'Categories' , 'show');
+$router->add('/categories/add' , 'Categories' , 'add');
+$router->add('/categories/edit' , 'Categories' , 'edit');
+$router->add('/categories/delete' , 'Categories' , 'destroy');
+$router->add('/categories/children' , 'Categories' , 'children');
 
+// -------------------- Products API ---------------------//
+$router->add('/products' , 'Products');
+$router->add('/products/show' , 'Products' , 'show');
+$router->add('/products/add' , 'Products' , 'add');
+$router->add('/products/edit' , 'Products' , 'edit');
+$router->add('/products/delete' , 'Products' , 'destroy');
+
+// $router->add('/users/add' , 'Users' , 'add');
+
+// -------------------- starting matching routes ---------------------//
 $router->route();

@@ -23,6 +23,7 @@ abstract class Model
 			$stm->bindParam($key + 1 , $input[$value]);
 		}
 		$stm->execute();
+		return $this->dbo->lastInsertId();
 	}
 
 	public function findById($id){
@@ -37,14 +38,14 @@ abstract class Model
 		$query = 'SELECT * FROM '. $this->table;
 		$stm = $this->dbo->prepare($query);
 		$stm->execute();
-		return $stm->fetch();
+		return $stm->fetchAll();
 	}
 
 	public function destroy($id){
 		$query = "DELETE FROM {$this->table} WHERE id = ?";
 		$stm = $this->dbo->prepare($query);
 		$stm->bindParam(1 , $id);
-		$stm->execute();
+		return $stm->execute();
 	}
 
 	public function update($id ,array $input){
@@ -60,6 +61,6 @@ abstract class Model
 			$stm->bindParam($key + 1 , $input[$value]);
 		}
 		$stm->bindParam(count($this->fields) +1 ,$id);
-		$stm->execute();
+		return $stm->execute();
 	}
 }

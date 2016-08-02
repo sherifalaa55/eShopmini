@@ -27,6 +27,7 @@ class Connection
 		    $this->db = new PDO("mysql:host={$this->db_host};dbname={$this->db_name}", $this->db_user, $this->db_password);
 		    // set the PDO error mode to exception
 		    $this->db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+		    $this->db->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_OBJ);
 		}
 		catch(PDOException $e)
 		{
