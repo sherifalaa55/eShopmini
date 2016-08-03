@@ -8,7 +8,10 @@ class Categories
 	
 	function __construct()
 	{
-		# code...
+		$auth = new Authenticator();
+		if(!$auth->check()){
+			$auth->logout();
+		}
 	}
 
 	public function index()
@@ -85,10 +88,16 @@ class Categories
 	public function children()
 	{
 		global $dbo;
-		$query = "SELECT * FROM categories WHERE parent_id = ?";
+		if(!isset($_GET['category_id']) || $_GET['category_id'] == 0){
+			$query = "SELECT * FROM categories WHERE parent_id IS NULL";
+		}else{
+			$cat_id = $_GET['category_id'];
+			$query = "SELECT * FROM categories WHERE parent_id = ".$cat_id;
+		}
+		// die($query);
 		$stm = $dbo->prepare($query);
-		$stm->bindParam(1,$_GET['category_id']);
+		// $stm->bindParam(1,$cat_id);
 		$stm->execute();
-		echo json_encode($stm->fetch());
+		echo json_encode($stm->fetchAll());
 	}
 }

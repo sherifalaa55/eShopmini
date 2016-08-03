@@ -6,8 +6,8 @@ altairApp
 
             // Use $urlRouterProvider to configure any redirects (when) and invalid urls (otherwise).
             $urlRouterProvider
-                .when('/dashboard', '/')
-                .otherwise('/');
+                .when('/', '/ecommerce/products_list')
+                .otherwise('/ecommerce/products_list');
 
             $stateProvider
             // -- ERROR PAGES --
@@ -780,6 +780,29 @@ altairApp
                         pageTitle: 'Products List'
                     }
                 })
+                .state("restricted.ecommerce.products_lists", {
+                    url: "/products_list/:cat_id",
+                    templateUrl: 'app/components/ecommerce/products_listView.html',
+                    controller: 'products_listCtrl',
+                    resolve: {
+                        products_data: function($http){
+                            return $http({method: 'GET', url: 'data/ecommerce_products.json'})
+                                .then(function (data) {
+                                    return data.data;
+                                });
+                        },
+                        deps: ['$ocLazyLoad', function($ocLazyLoad) {
+                            return $ocLazyLoad.load([
+                                'lazy_pagination',
+                                'app/components/ecommerce/products_listController.js'
+                            ], { serie: true } );
+                        }]
+                    },
+                    data: {
+                        pageTitle: 'Products List'
+                    }
+                })
+
                 .state("restricted.ecommerce.products_grid", {
                     url: "/products_grid",
                     templateUrl: 'app/components/ecommerce/products_gridView.html',
