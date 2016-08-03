@@ -1,5 +1,8 @@
 <?php
 namespace core\src;
+
+use core\Authenticator;
+
 /**
 * 
 */
