@@ -16,7 +16,7 @@ class Home
 	public function index()
 	{
 		$tmpl = new TemplateLoader();
-		$tmpl->load('index.php')->render();
+		$tmpl->load('core.php')->render();
 	}
 
 	public function add()

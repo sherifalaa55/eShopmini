@@ -534,6 +534,14 @@
 				"buffer_size": 1752,
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "core/database/schema.php",
+			"settings":
+			{
+				"buffer_size": 716,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "",
@@ -935,7 +943,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -964,7 +972,7 @@
 						"translation.y": 160.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -991,6 +999,34 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 1234.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "core/database/schema.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 716,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								512,
+								512
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
